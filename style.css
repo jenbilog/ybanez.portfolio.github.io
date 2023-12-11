@@ -1,0 +1,17 @@
+body {
+    padding-top: 150px; /* Adjust padding based on your navbar height */
+}
+
+* {
+    font-size: 20px;
+}
+
+.container {
+    position: relative;
+    width: 50%;
+  }
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
